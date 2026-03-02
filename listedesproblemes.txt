@@ -18,6 +18,11 @@ Normalisation des sans-abris
 Normalisation de la sexualisation
 Normalisation de l'hypersexualisation
 Normalisation du séchage de cours
+
+...
+
+
+-- Prompted by ChatGPT--
 Plus de respect envers les adultes
 Normalisation de la violence
 Normalisation des mensonges politiques
