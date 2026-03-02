@@ -4,7 +4,6 @@ Nourriture payante
 Vivre est payante
 Argent = pouvoir
 Pouvoir = contrôle sur la vie des gens
-
 Normalisation de la haine
 Normalisation du racisme
 Normalisation de la moquerie
@@ -20,7 +19,6 @@ Normalisation de la sexualisation
 Normalisation de l'hypersexualisation
 Normalisation du séchage de cours
 Plus de respect envers les adultes
-
 Normalisation de la violence
 Normalisation des mensonges politiques
 Normalisation de la corruption
@@ -73,10 +71,7 @@ Normalisation de la marchandisation de l’attention
 Normalisation de la perte de vie privée
 Normalisation de la fatigue mentale
 Normalisation de la déshumanisation
-Normalisation du cynisme
 Normalisation de l’absurde
-Plus de respect envers les adultes
-
 Contrôle par la peur
 Contrôle par l’argent
 Contrôle par l’information
@@ -92,7 +87,6 @@ Remplacer au lieu de réparer
 Être productif = être utile
 Être utile = avoir de la valeur
 Valeur = argent
-
 Information manipulée
 Vérité déformée
 Opinion transformée en fait
@@ -101,7 +95,6 @@ Image > réalité
 Apparence > profondeur
 Quantité > qualité
 Rapidité > réflexion
-
 Comparaison constante
 Compétition permanente
 Échec mal vu
@@ -110,43 +103,36 @@ Individualisme croissant
 Communauté affaiblie
 Familles divisées
 Amitiés superficielles
-
 Travail sans sens
+Système d'éducation moindre
 Études sans passion
-Diplôme = sécurité
 Sécurité = illusion
 Liberté conditionnée
 Liberté limitée
 Rêves rentabilisés
 Créativité monétisée
-
 Émotions exploitées
-Colère entretenue
+Colère retenue
 Peurs amplifiées
 Scandales recyclés
 Indignation éphémère
 Oubli rapide
-
 Temps vendu
-Attention capturée
+Attention volée
 Données collectées
 Vie privée exposée
-Identité numérique
-Persona fabriquée
-
+Identité numérique exposé
 Fatigue généralisée
 Stress normalisé
 Anxiété banalisée
 Solitude moderne
 Isolement social
 Hyperconnexion
-
 Planète exploitée
 Ressources épuisées
 Nature sacrifiée
 Climat ignoré
 Responsabilité diluée
-
 Silence face à l’injustice
 Habitude du chaos
 Tolérance à l’absurde
@@ -157,75 +143,54 @@ Perte d’espoir
 Perte de repères
 Perte de valeurs
 Perte de sens
-
 Obéir sans comprendre
 Suivre sans réfléchir
 Consommer sans besoin
 Parler sans écouter
 Réagir sans analyser
-
-Peurs héritées
+Peurs sans savoir
 Colères transmises
 Traumatismes ignorés
 Silences imposés
 Vérités cachées
-
 Systèmes intouchables
 Pouvoirs invisibles
-Décisions lointaines
+Décisions politiques piètres
 Conséquences locales
 Responsabilités floues
-
 Promesses répétées
 Changements repoussés
 Crises en série
 Urgences permanentes
 Solutions temporaires
-
-Éducation formatée
+Éducation forcée
 Esprits conditionnés
 Talents standardisés
 Différences critiquées
 Originalité marginalisée
-
 Succès mesuré en chiffres
 Bonheur mesuré en biens
 Relations mesurées en avantages
 Temps mesuré en productivité
 Humain mesuré en performance
-
 Réalité filtrée
-Souvenirs numérisés
 Présence fragmentée
 Attention divisée
-Moments écourtés
-
-Confiance brisée
+Abus de confiance
 Dialogue rompu
 Écoute absente
 Débat polarisé
 Nuance oubliée
-
 Rêves abandonnés
 Passions étouffées
 Enfants pressés
 Adultes épuisés
 Anciens ignorés
-
-Peu d’exemples inspirants
-Beaucoup d’influenceurs
-Beaucoup de bruit
 Peu de silence
 Peu de recul
-
 Société pressée
 Société stressée
 Société divisée
 Société saturée
 Société distraite
 
-Recherche de sens
-Recherche d’identité
-Recherche de reconnaissance
-Recherche d’appartenance
-Recherche de liberté
